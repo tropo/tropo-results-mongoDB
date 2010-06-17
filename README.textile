@@ -1,4 +1,4 @@
-h1. Tropo AudioFiles to Amazon S3 Server
+h1. Tropo Transcription Results to MongoDB @ Heroku
 
 h2. Overview
 
